@@ -1,24 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C957FF&width=435&lines=Hello+World!+I'm+Arthur+Alves;Bem+Vindo(a)+ao+meu+perfil+no+GitHub!+)](https://git.io/typing-svg)
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=r4santos.r4santos&"  />
-</div>
-
----
-
-## Sobre mim
-🎓 Tenho 19 anos e sou formado em Técnico em Informática pelo Colégio COTEMIG, com conhecimentos em desenvolvimento de software e tecnologia. Tenho interesse em desenvolvimento web e mobile, além de explorar novas áreas e soluções tecnológicas.
-
-🌱 Estou sempre aprimorando meus conhecimentos em Kotlin, PHP, Dart e Swift, além de fortalecer minha base em HTML, CSS, JavaScript e MySQL, desenvolvendo projetos e explorando novas tecnologias.
 ---
 
 <div align="center">
-  <a href="https://github.com/arthuralvesmf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurAlves&show_icons=true&count_private=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAlves&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4santos&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" />
 </div>
 
+---
 
+
+###
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
@@ -28,11 +19,30 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt=Figma/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt=Github/>
   <img src="https://img.shields.io/badge/Office-%230A66C2.svg?&style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Pacote Office"/><br>
+  <img src="https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart&logoColor=cyan" alt="Dart"/>
+  <img src="https://img.shields.io/badge/kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=cyan" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/swift-orange?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+</div>
+
+---
+
+<h3>🌐 Connect with Me</h3>
+
+<div align="center">
+  
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_arthurralves/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/arthur-alves-ab62103a7)
+  [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/_arthurralves_)
   
 </div>
 
-##
+###
 
-<div>
-  <a href="linkeind" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<h3 align="left">🔥   My Stats :</h3>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/r4santos/r4santos/output/snake.svg" alt="Snake animation" />
 </div>
+
+###
