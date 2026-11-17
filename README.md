@@ -42,7 +42,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/r4santos/r4santos/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/_arthurralves/_arthurralves/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
